@@ -5,6 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
+const { worker } = require('./mocks/browser');
+
+// Start the mocking conditionally.
+if (process.env.NODE_ENV === 'development') {
+  worker.start();
+}
+
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>

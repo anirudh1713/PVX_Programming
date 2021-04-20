@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "C++",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "Java",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "JavaScript",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "TypeScript",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "Python",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "Ruby",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "Go",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    },
+    {
+      "name": "Kotlin",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde porro illo corporis, qui sunt reprehenderit perspiciatis dolor fuga soluta recusandae blanditiis in a consectetur commodi, ea dignissimos eaque ratione veritatis!"
+    }
+  ]
+}
